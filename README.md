@@ -4,12 +4,12 @@ O robô de sinais **PyTradeGenius_Bin_Bot** realiza o monitoramento dos **Múlti
 
 ## Imagem de referências
 
-#### Código
+### Código
 <div align="center">
 <img src ="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/GIF_trecho_de_codigo.gif" alt="Image" style="max-width: 40%;">
 </div>
 
-#### Imagem do grupo do telegram
+### Imagem do grupo do telegram
 <div align="center">
 <img src ="https://raw.githubusercontent.com/HeberSilverio/PyHbSinaisTelegramMultipleAssets/main/img/PyHbSinaisTelegramMultipleAssets.JPG" alt="Image" style="max-width: 40%;">
 </div>
@@ -32,9 +32,9 @@ Desenvolvido por **Héber Silvério** </br>
 
 # 📋 Índice
 
-*  <a href="https://github.com/HeberSilverio/PyTradeGenius_Bin_Bot?tab=readme-ov-file#manual-de-utiliza%C3%A7%C3%A3o">Manual de utilização</a>
-*  <a href="https://github.com/HeberSilverio/PyTradeGenius_Bin_Bot?tab=readme-ov-file#links-%C3%BAteis">Links úteis</a>
-*  <a href="https://github.com/HeberSilverio/PyTradeGenius_Bin_Bot?tab=readme-ov-file#manual-de-desenvolvimento">Manual de Desenvolvimento</a>
+*  <a href="https://github.com/HeberSilverio/PyTradeGenius_Bin_Bot?tab=readme-ov-file#manual-de-utiliza%C3%A7%C3%A3o" rel="nofollow" target="_blank">Manual de utilização</a>
+*  <a href="https://github.com/HeberSilverio/PyTradeGenius_Bin_Bot?tab=readme-ov-file#links-%C3%BAteis" rel="nofollow" target="_blank">Links úteis</a>
+*  <a href="https://github.com/HeberSilverio/PyTradeGenius_Bin_Bot?tab=readme-ov-file#manual-de-desenvolvimento" rel="nofollow" target="_blank">Manual de Desenvolvimento</a>
 
 
 ## **MANUAL DE UTILIZAÇÃO**
@@ -57,29 +57,35 @@ O número do Chat_Id aparece na string: {"message_id":xxx,"from":{"id":**Número
 
 ## Links úteis 
 
-#### Vídeo Tutorial do projeto no youtube
+### Vídeo Tutorial do projeto no youtube
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
-    <img src="url do gif no meu repositorio" alt="Print Video" style="max-width: 40%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/print_video.JPG" alt="Print Video" style="max-width: 40%;">
 </a> </br>
-*  <a href="https://www.youtube.com/watch?v=Y-HFJkeJyc4&list=PL5ySK5XRdtxMmHSQhE3_zPoAK1UCwRwB3">Link do video tutorial</a> 
 
-#### Repositório GitHub - binance-futures-connector-python
+* <a href="https://www.youtube.com/watch?v=Y-HFJkeJyc4&list=PL5ySK5XRdtxMmHSQhE3_zPoAK1UCwRwB3" rel="nofollow" target="_blank">Link do video tutorial</a> 
+
+### Repositório GitHub - binance-futures-connector-python
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
     <img src="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/Repositorio_binance.JPG" alt="Repositorio binance" style="max-width: 40%;">
 </a> </br>
-*  <a href="https://github.com/binance/binance-futures-connector-python/tree/main">Api da binance</a> 
 
-#### Biblioteca Talib Python
+*  <a href="https://github.com/binance/binance-futures-connector-python/tree/main" target="_blank">Api da binance</a> 
+
+</br></br>
+
+### Biblioteca Talib Python
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
     <img src="url do gif no meu repositorio" alt="Dia 01" style="max-width: 40%;">
 </a> </br>
-*  <a href="https://github.com/TA-Lib/ta-lib-python/tree/master">Talib Python</a> 
 
-#### Exeplos de códigos no repositório GitHub da Binance
+*  <a href="https://github.com/TA-Lib/ta-lib-python/tree/master" target="_blank">Talib Python</a> 
+
+### Exeplos de códigos no repositório GitHub da Binance
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
     <img src="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/exemplos_de_codigos.JPG" alt="Exemplos de códigos" style="max-width: 40%;">
 </a> </br>
-*  <a href="https://github.com/binance/binance-futures-connector-python/blob/main/examples/um_futures/trade/get_balance.py">Códigos exemplos da binance futuros</a> 
+
+*  <a href="https://github.com/binance/binance-futures-connector-python/blob/main/examples/um_futures/trade/get_balance.py" target="_blank">Códigos exemplos da binance futuros</a> 
 
 
 
@@ -97,13 +103,14 @@ Instale a biblioteca TA-Lib - utilizada para adicionar indicadores
 `pip install TA-Lib`
 
 
-Utilizei exemplos de códigos da documentação da binance que encontrei <a href="[url do site indicado](https://github.com/binance/binance-futures-connector-python/tree/main/examples/um_futures/trade)">aqui.</a> 
+Utilizei exemplos de códigos da documentação da binance que encontrei <a href="[url do site indicado](https://github.com/binance/binance-futures-connector-python/tree/main/examples/um_futures/trade)" rel="nofollow" target="_blank">aqui.</a> 
 
 
 Foi sugerido utilizar esta biblioteca de indicadores
 
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
-    <img src="url da imagem biblioteca de indicadores python" alt="Biblioteca de indicadores" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/biblioteca%20de%20indicadores%20python.JPG" alt="Biblioteca de indicadores" style="max-width: 100%;">
 </a> </br>
-*  <a href="url do site indicado">Biblioteca de análise técnica em python</a> 
+
+*  <a href="https://github.com/binance/binance-futures-connector-python/tree/main/examples/um_futures/trade" rel="nofollow" target="_blank">Biblioteca de análise técnica em python</a> 
 
