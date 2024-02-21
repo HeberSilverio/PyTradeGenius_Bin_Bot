@@ -25,10 +25,10 @@ git clone https://github.com/HeberSilverio/PyTradeGenius_Bin_Bot.git
 
 ## Autor
 Desenvolvido por **Héber Silvério** </br>
-<a href="https://www.linkedin.com/in/hebersilverio/" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hebersilverio/" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/hebersilverio/" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hebersilverio/" style="max-width:100%;"></a></br>
 👋 Fique a vontade para se conectar
 
-
+</br></br>
 
 # 📋 Índice
 
@@ -44,6 +44,7 @@ No arquivo **"config.py"** deverá ser inserida a **API_KEY** da sua conta Binan
 <img src = "https://raw.githubusercontent.com/HeberSilverio/PyHbSinais/main/img/secrets.png">
 </div>
 
+</br>
 Ainda no arquivo **"config.py"**, para inserir o **TOKEN** é necessário criar um bot no Telegram utilizando o canal **BotFather**:
 <div align="center">
 <img src = "https://raw.githubusercontent.com/HeberSilverio/PyHbSinais/main/img/botfather.png" alt="Image" height="350" width="300">
@@ -53,7 +54,7 @@ Para capturar o **CHAT_ID**, basta enviar uma mensagem através do telegram ou r
 Em seguida, utilize esta url https://api.telegram.org/botTOKEN/getUpdates e substitua o **TOKEN**. 
 O número do Chat_Id aparece na string: {"message_id":xxx,"from":{"id":**Número ID**.
 
-
+</br></br>
 
 ## Links úteis 
 
@@ -64,9 +65,11 @@ O número do Chat_Id aparece na string: {"message_id":xxx,"from":{"id":**Número
 
 * <a href="https://www.youtube.com/watch?v=Y-HFJkeJyc4&list=PL5ySK5XRdtxMmHSQhE3_zPoAK1UCwRwB3" rel="nofollow" target="_blank">Link do video tutorial</a> 
 
+</br></br>
+
 ### Repositório GitHub - binance-futures-connector-python
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
-    <img src="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/Repositorio_binance.JPG" alt="Repositorio binance" style="max-width: 40%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/Repositorio_binance01.JPG" alt="Repositorio binance" style="max-width: 40%;">
 </a> </br>
 
 *  <a href="https://github.com/binance/binance-futures-connector-python/tree/main" target="_blank">Api da binance</a> 
@@ -75,7 +78,7 @@ O número do Chat_Id aparece na string: {"message_id":xxx,"from":{"id":**Número
 
 ### Biblioteca Talib Python
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
-    <img src="url do gif no meu repositorio" alt="Dia 01" style="max-width: 40%;">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/biblioteca_talib_python.JPG" alt="Dia 01" style="max-width: 40%;">
 </a> </br>
 
 *  <a href="https://github.com/TA-Lib/ta-lib-python/tree/master" target="_blank">Talib Python</a> 
