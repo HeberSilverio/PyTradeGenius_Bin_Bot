@@ -4,14 +4,14 @@ O robô de sinais **PyTradeGenius_Bin_Bot** realiza o monitoramento dos **Múlti
 
 ## Imagem de referências
 
-#### Imagem do grupo do telegram
+#### Código
 <div align="center">
-<img src ="código" alt="Image" style="max-width: 60%;">
+<img src ="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/GIF_trecho_de_codigo.gif" alt="Image" style="max-width: 40%;">
 </div>
 
 #### Imagem do grupo do telegram
 <div align="center">
-<img src ="https://raw.githubusercontent.com/HeberSilverio/PyHbSinaisTelegramMultipleAssets/main/img/PyHbSinaisTelegramMultipleAssets.JPG" alt="Image" style="max-width: 60%;">
+<img src ="https://raw.githubusercontent.com/HeberSilverio/PyHbSinaisTelegramMultipleAssets/main/img/PyHbSinaisTelegramMultipleAssets.JPG" alt="Image" style="max-width: 40%;">
 </div>
 
 ## ⌨️ Como executar o projeto
@@ -96,8 +96,14 @@ Instale a biblioteca Pandas
 Instale a biblioteca TA-Lib - utilizada para adicionar indicadores
 `pip install TA-Lib`
 
+
+Utilizei exemplos de códigos da documentação da binance que encontrei <a href="[url do site indicado](https://github.com/binance/binance-futures-connector-python/tree/main/examples/um_futures/trade)">aqui.</a> 
+
+
+Foi sugerido utilizar esta biblioteca de indicadores
+
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
-    <img src="url do gif no meu repositorio" alt="Dia 01" style="max-width: 100%;">
+    <img src="url da imagem biblioteca de indicadores python" alt="Biblioteca de indicadores" style="max-width: 100%;">
 </a> </br>
-*  <a href="url do site indicado">Modelo</a> 
+*  <a href="url do site indicado">Biblioteca de análise técnica em python</a> 
 
