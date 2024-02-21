@@ -83,6 +83,8 @@ O número do Chat_Id aparece na string: {"message_id":xxx,"from":{"id":**Número
 
 *  <a href="https://github.com/TA-Lib/ta-lib-python/tree/master" target="_blank">Talib Python</a> 
 
+</br></br>
+
 ### Exeplos de códigos no repositório GitHub da Binance
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
     <img src="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/exemplos_de_codigos.JPG" alt="Exemplos de códigos" style="max-width: 40%;">
@@ -90,7 +92,7 @@ O número do Chat_Id aparece na string: {"message_id":xxx,"from":{"id":**Número
 
 *  <a href="https://github.com/binance/binance-futures-connector-python/blob/main/examples/um_futures/trade/get_balance.py" target="_blank">Códigos exemplos da binance futuros</a> 
 
-
+</br></br>
 
 
 ## **MANUAL DE DESENVOLVIMENTO**
@@ -102,14 +104,14 @@ Inicie seu projeto instalando as bibliotecas necessárias
 Instale a biblioteca Pandas
 `pip install pandas`
 
-Instale a biblioteca TA-Lib - utilizada para adicionar indicadores
-`pip install TA-Lib`
+Instale a biblioteca de indicadores TA
+`pip install ta`
 
 
 Utilizei exemplos de códigos da documentação da binance que encontrei <a href="[url do site indicado](https://github.com/binance/binance-futures-connector-python/tree/main/examples/um_futures/trade)" rel="nofollow" target="_blank">aqui.</a> 
 
 
-Foi sugerido utilizar esta biblioteca de indicadores
+Foi sugerido utilizar esta biblioteca de indicadores - <a href="https://github.com/binance/binance-futures-connector-python/tree/main/examples/um_futures/trade" rel="nofollow" target="_blank">Biblioteca de análise técnica em python</a> 
 
 <a target="_blank" rel="noopener noreferrer" href="gif do vídeo">
     <img src="https://raw.githubusercontent.com/HeberSilverio/PyTradeGenius_Bin_Bot/main/img/biblioteca%20de%20indicadores%20python.JPG" alt="Biblioteca de indicadores" style="max-width: 100%;">
